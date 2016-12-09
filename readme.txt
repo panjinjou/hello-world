@@ -16,4 +16,6 @@ git status
 git add "readme.txt"
 git commit -m "readme.txt"
 
+git config user.username "panjinjou"
+
 "This file is awesome!"
