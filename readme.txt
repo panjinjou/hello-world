@@ -10,6 +10,8 @@ git config user.email "jinjou@yahoo.com"
 git config -l
 touch "readme.txt"
 cat "readme.txt"
+
+These commands must be executed each time:
 git status
 git add "readme.txt"
 git commit -m "readme.txt"
