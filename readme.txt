@@ -1,9 +1,12 @@
 "Hello, I am awesome!"
 
+"This file is awesome!"
+
 pwd
 ls
 mkdir hello-world
 cd hello-world
+cd ..
 git init
 git config user.name "Joel Perry"
 git config user.email "jinjou@yahoo.com"
@@ -22,4 +25,9 @@ git remote set-url origin/upstream/<RemoteName> https://github.com/panjinjou/hel
 
 git push origin master
 
-"This file is awesome!"
+https://github.com/panjinjou/Learn-To-Code-GitHub-Git.git
+https://github.com/panjinjou/Chocolate-Chip-Cookies.git
+
+https://github.com/galvanizeopensource/learn-to-code-github-git/Chocolate-Chip-Cookies/
+
+git clone
